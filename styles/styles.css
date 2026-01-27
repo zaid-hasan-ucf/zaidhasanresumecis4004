@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+h2 {
+    font-size: 35px
+}
+#paragraph2 {
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    background-color: white;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 900px;
+    margin: 20px;
+    line-height: 2;
+}
+.blue {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+ol {
+    list-style-type: decimal-leading-zero;
+}
+a {
+    color: blue;
+}
+p a {
+    color: red;
+}
+table, th, td {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+th {
+    background-color: lightgray;
+}
+td {
+    background-color: white;
+    padding: 10px;
+}
