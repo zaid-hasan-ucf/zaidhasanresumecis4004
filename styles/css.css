@@ -1,0 +1,28 @@
+#jumpMenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 15%;
+}
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+#container article {
+    width: 300px;
+}
+header {
+    text-align: center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+main {
+    margin-left: 15%;
+}
+#thanks {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
